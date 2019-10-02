@@ -1,4 +1,5 @@
-# Требования к проекту <a name="introduction"></a>
-## 1. Введение
-### 1.1 Назначение
-Bеб-приложение «Internet_library». Оно предназначено для более удобного использования ресурсов библиотеки.
+# Internet_library
+# TRTPO Project
+"Internet library" web application designed for more convenient use of library resources
+# Contents
+Documents (#introduction) 
