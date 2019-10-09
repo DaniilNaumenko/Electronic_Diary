@@ -30,6 +30,7 @@
 Проект использует язык С++ c использованием интерфейса программирования приложений Windows Forms, для хранения данных используется текстовые файлы.
 ### 2.2 Интерфейс пользователя <a name="2.2"></a>
 - Главный экран
+
 ![Первая страница](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/student%20page.png)
 
 "TextBox" | Назначение
@@ -58,9 +59,11 @@
 "Search field value" | Значение, по которому мы будем искать запись учащегося
 "New value" | Значение, на которые мы хотим заменить определенное поле в записи учащегося
 - Окно поиска
+
 ![окно поиска](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/search.png)
 
 - Окно удаления
+
 ![Окно удаления](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/Deletion.png)
 ### 2.3. Характеристики пользователей <a name="2.3"></a>
 #### 2.3.1 Классы пользователей
