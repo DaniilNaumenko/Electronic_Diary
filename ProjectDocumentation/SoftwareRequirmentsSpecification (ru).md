@@ -43,8 +43,6 @@
 "Class" | Класс учащегося
 "Subject" | Предмет 
 
-Кнопка "Input" служит для добавления нового учщегося в базу данных.
-
 - Окно редактирования
 
 ![окно редактирования](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/Redactionpng.png)
