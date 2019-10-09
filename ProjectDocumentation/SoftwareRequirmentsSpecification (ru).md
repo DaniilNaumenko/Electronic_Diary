@@ -28,12 +28,13 @@
 ![Первая страница](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/student%20page2.png)
 
 - Окно редактирования
-![Страница результатов поиска книги](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/Redactionpng.png)
+![окно редактирования](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/Redactionpng.png)
 
 - Окно поиска
-![Cтраница просмотра забронированных книг](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/search.png)
+![окно поиска](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/search.png)
 
 - Окно удаления
+![Окно удаления](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/Deletion.png)
 ### 2.3. Характеристики пользователей <a name="2.3"></a>
 #### 2.3.1 Классы пользователей
 - Посетитель - имеющий возможность зарегистрироваться на сайте пользователь, имеющий возможность бронировать книгу, просматривать список всех книг, осуществлять поиск по каталогу, просматривать свои и взятые книги.
