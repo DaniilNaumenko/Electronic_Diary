@@ -27,6 +27,20 @@
 - Главный экран
 ![Первая страница](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/student%20page2.png)
 
+- Главный экран
+
+"TextField" | Назначение
+--- | ---
+"First name" | Имя учащегося
+"Last name" | Отчество учащегося
+"Middle name" | Фамилия учащегося
+"Adress" | Адрес учащегося
+"Date of Birth" | Дата рождения учащегося
+"Class" | Класс учащегося
+"Subject" | Предмет 
+
+Кнопка "Ввод" служит для добавления нового учщегося в базу данных.
+
 - Окно редактирования
 ![окно редактирования](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/Redactionpng.png)
 
