@@ -31,7 +31,7 @@
 ![Страница результатов поиска книги](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/Redactionpng.png)
 
 - Окно поиска
-![Cтраница просмотра забронированных книг](https://github.com/DaniilNaumenko/Internet_library/blob/master/Mockups/Bookings.jpg)
+![Cтраница просмотра забронированных книг](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/search.png)
 
 - Окно удаления
 ### 2.3. Характеристики пользователей <a name="2.3"></a>
