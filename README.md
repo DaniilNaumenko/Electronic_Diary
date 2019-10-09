@@ -1,5 +1,8 @@
-# Internet_library
+# Electronic_Diary
 # TRTPO Project
-"Internet library" web application designed for more convenient use of library resources
+ The software is designed to work with information about students in the school.
+# Used Technologies:
+Programming language: C++
+Development environment: Visual Studio Community 2019
 # Contents
 [Documents](https://github.com/DaniilNaumenko/Internet_library/blob/master/ProjectDocumentation/SoftwareRequirmentsSpecification%20(ru).md) 
