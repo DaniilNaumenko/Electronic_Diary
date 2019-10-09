@@ -25,7 +25,7 @@
 Проект использует язык С++ c использованием интерфейса программирования приложений Windows Forms, для хранения данных используется текстовые файлы.
 ### 2.2 Интерфейс пользователя <a name="2.2"></a>
 - Главный экран
-![Первая страница](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/student%20page2.png)
+![Первая страница](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/student%20page.png)
 
 - Главный экран
 
@@ -39,7 +39,7 @@
 "Class" | Класс учащегося
 "Subject" | Предмет 
 
-Кнопка "Ввод" служит для добавления нового учщегося в базу данных.
+Кнопка "Input" служит для добавления нового учщегося в базу данных.
 
 - Окно редактирования
 ![окно редактирования](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/Redactionpng.png)
