@@ -25,7 +25,7 @@
 Проект использует язык С++ c использованием интерфейса программирования приложений Windows Forms, для хранения данных используется текстовые файлы.
 ### 2.2 Интерфейс пользователя <a name="2.2"></a>
 - Главный экран
-![Первая страница](https://github.com/DaniilNaumenko/Internet_library/blob/master/Mockups/Page.jpg)
+![Первая страница](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Mockups/student%20page2.png)
 
 - Страница результатов поиска книги
 ![Страница результатов поиска книги](https://github.com/DaniilNaumenko/Internet_library/blob/master/Mockups/BookSearch.jpg)
