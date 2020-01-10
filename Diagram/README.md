@@ -1,25 +1,25 @@
-# 0 UML Diagrams
+# UML Diagrams
 ## Содержание
 ### 1) [ClassDiagram](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/ClassDiagram/Class.png)
 ### 2) [ComponentDeployment](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/Component_Deployment/comp_depl.png)
-### 3) [ActivityDiagram]
-#### 3.1[adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/adding.png)
-#### 3.2[cancel](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/cancel.png)
-#### 3.3[delete](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/delete.png)
-#### 3.4[editing](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/editing.png)
-#### 3.5[output all students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20all%20students.png)
-#### 3.6[output bad students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20bad%20students.png)
-#### 3.7[output GOOD students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20good%20students.png)
-#### 3.8[search](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/search.png)
-### 4) [SequenceDiagram]
-#### 4.1[adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/adding.png)
-#### 4.2[cancel](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/cancel.png)
-#### 4.3[delete](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/delete.png)
-#### 4.4[editing](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/editing.png)
-#### 4.5[output all students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/output_all_student.png)
-#### 4.6[output bad students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/output_bad_student.png)
-#### 4.7[output GOOD students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/output_good_student.png)
-#### 4.8[search](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/search.png)
+### 3) ActivityDiagram
+####  3.1 [adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/adding.png)
+####  3.2 [cancel](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/cancel.png)
+####  3.3 [delete](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/delete.png)
+####  3.4 [editing](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/editing.png)
+####  3.5 [output all students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20all%20students.png)
+####  3.6 [output bad students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20bad%20students.png)
+####  3.7 [output GOOD students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20good%20students.png)
+####  3.8 [search](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/search.png)
+### 4) SequenceDiagram
+####  4.1 [adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/adding.png)
+####  4.2 [cancel](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/cancel.png)
+####  4.3 [delete](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/delete.png)
+####  4.4 [editing](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/editing.png)
+####  4.5 [output all students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/output_all_student.png)
+####  4.6 [output bad students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/output_bad_student.png)
+####  4.7 [output GOOD students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/output_good_student.png)
+####  4.8 [search](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/search.png)
 ## 1 Актёры
 
 | Актёр | Описание |
