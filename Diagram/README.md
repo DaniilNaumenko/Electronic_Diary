@@ -1,5 +1,5 @@
 # UML Diagrams
-## Содержание
+## Содержание:
 ### 1) [ClassDiagram](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/ClassDiagram/Class.png)
 ### 2) [ComponentDeployment](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/Component_Deployment/comp_depl.png)
 ### 3) ActivityDiagrams
