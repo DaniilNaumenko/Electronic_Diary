@@ -1,4 +1,26 @@
-# 1 Актёры
+# 0 UML Diagrams
+## Содержание
+### 1) [ClassDiagram](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/ClassDiagram/Class.png)
+### 2) [ComponentDeployment](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/Component_Deployment/comp_depl.png)
+### 3) [ActivityDiagram]
+#### 3.1[adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/adding.png)
+#### 3.2[cancel](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/cancel.png)
+#### 3.3[delete](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/delete.png)
+#### 3.4[editing](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/editing.png)
+#### 3.5[output all students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20all%20students.png)
+#### 3.6[output bad students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20bad%20students.png)
+#### 3.7[output GOOD students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20good%20students.png)
+#### 3.8[search](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/search.png)
+### 4) [SequenceDiagram]
+#### 4.1[adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/adding.png)
+#### 4.2[cancel](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/cancel.png)
+#### 4.3[delete](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/delete.png)
+#### 4.4[editing](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/editing.png)
+#### 4.5[output all students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/output_all_student.png)
+#### 4.6[output bad students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/output_bad_student.png)
+#### 4.7[output GOOD students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/output_good_student.png)
+#### 4.8[search](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/search.png)
+## 1 Актёры
 
 | Актёр | Описание |
 |:--|:--|
@@ -6,11 +28,11 @@
 
 <a name="2"/>
 
-# 2 Варианты использования
+## 2 Варианты использования
 
 <a name="2.1"/>
 
-## 2.1 Добавить запись
+### 2.1 Добавить запись
 
 **Описание.** Вариант использования "Добавить запись" позволяет пользователю добавить запись в базу данных.  
 **Основной поток.**
@@ -24,12 +46,12 @@
 7. Приложение выводит измененный список записей;
 8. Вариант использования завершается;
 
-### Альтернативный поток А1
+#### Альтернативный поток А1
 1. В приложении не производит запись в базу данных и продолжает работу;
 2. Возврат к п.2 основного потока;
 <a name="2.2"/>
 
-## 2.2 Удалить запись
+### 2.2 Удалить запись
 
 **Описание.** Вариант использования "Удалить запись" позволяет пользователю удалить запись из базы данных.  
 **Основной поток.**
@@ -43,13 +65,13 @@
 7. Приложение Выводит изменённый список записей;
 8. Вариант использования завершается
  
-### Альтернативный поток А2
+#### Альтернативный поток А2
 
 1. Приложение не удаляет запись и продолжает работать;
 2. Возврат к п.7 основного потока;
 <a name="2.3"/>
 
-## 2.3 Вывод "хороших" учеников
+### 2.3 Вывод "хороших" учеников
 
 **Описание.** Вариант использования Вывод "хороших" учеников позволяет вывести записи с средним баллом больше 7.  
 **Основной поток.**
@@ -59,7 +81,7 @@
 
 <a name="2.4"/>
 
-## 2.4 Вывод "плохих" учеников
+### 2.4 Вывод "плохих" учеников
 
 **Описание.** Вариант использования Вывод "плохих" учеников позволяет вывести записи с средним баллом ниже 4.  
 **Основной поток.**
@@ -69,7 +91,7 @@
 
 <a name="2.5"/>
 
-## 2.5 Вывод всех учеников
+### 2.5 Вывод всех учеников
 
 **Описание.** Вариант использования "Вывод всех учеников" позволяет вывести все записи.  
 **Основной поток.**
@@ -79,7 +101,7 @@
 
 <a name="2.6"/>
 
-## 2.6 Отмена последней операции
+### 2.6 Отмена последней операции
 
 **Описание.** Вариант использования "Отмена последней операции" позволяет отменить последнее изменение в базе данных.
 **Предусловия.** Пользователь изменил, добавил или удалил запись из базы данных.
@@ -91,7 +113,7 @@
 
 <a name="2.7"/>
 
-## 2.7 Поиск записей
+### 2.7 Поиск записей
 
 **Описание.** Вариант использования "Поиск записей" позволяет произвести поиск записей с определнным параметром.
 **Основной поток.**
@@ -106,7 +128,7 @@
 
 <a name="2.8"/>
 
-## 2.8 Редактировать запись
+### 2.8 Редактировать запись
 
 **Описание.** Вариант использования "Редактировать запись" позволяет изменить запись в базе данных.
 **Основной поток.**
@@ -120,7 +142,7 @@
 8. Приложение отображает измененный список;
 9. Вариант использования завершается;
 
-### Альтернативный поток А3.
+#### Альтернативный поток А3.
 
 1. Пользователь вводит значение параметра по которому будет произведен поиск и новое значение параметра "отметки";
 2. Пользователь подтверждает введенные данные;
@@ -129,7 +151,7 @@
 5. Программа перерассчитывает средний балл;
 6. Возврат к п.7 основного потока;
 
-### Альтернативный поток А4.
+#### Альтернативный поток А4.
 1. Приложение не изменяет запись и продолжает работать;
 2. Возврат к п.8 основного потока;
 
