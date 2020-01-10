@@ -7,4 +7,5 @@
 ## Contents
 1. [Requirements](https://github.com/DaniilNaumenko/Internet_library/blob/master/ProjectDocumentation/SoftwareRequirmentsSpecification%20(ru).md) 
 2. [UML Diagrams](https://github.com/DaniilNaumenko/Electronic_Diary/tree/master/Diagram)
+3. [Code](https://github.com/DaniilNaumenko/Electronic_Diary/tree/master/Code/Students_module)
 3. [Tests](https://github.com/DaniilNaumenko/Electronic_Diary/tree/master/Tests)
