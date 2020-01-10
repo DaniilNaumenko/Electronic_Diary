@@ -2,7 +2,7 @@
 ## Содержание
 ### 1) [ClassDiagram](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/ClassDiagram/Class.png)
 ### 2) [ComponentDeployment](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/Component_Deployment/comp_depl.png)
-### 3) ActivityDiagram
+### 3) ActivityDiagrams
 ####  3.1 [adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/adding.png)
 ####  3.2 [cancel](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/cancel.png)
 ####  3.3 [delete](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/delete.png)
@@ -11,7 +11,7 @@
 ####  3.6 [output bad students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20bad%20students.png)
 ####  3.7 [output GOOD students](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/output%20good%20students.png)
 ####  3.8 [search](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/search.png)
-### 4) SequenceDiagram
+### 4) SequenceDiagrams
 ####  4.1 [adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/adding.png)
 ####  4.2 [cancel](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/cancel.png)
 ####  4.3 [delete](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/sequence%20diagram/delete.png)
