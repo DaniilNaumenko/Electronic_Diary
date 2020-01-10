@@ -3,7 +3,7 @@
 ### 1) [ClassDiagram](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/ClassDiagram/Class.png)
 ### 2) [ComponentDeployment](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/Component_Deployment/comp_depl.png)
 ### 3) ActivityDiagrams
-####  3.1 [adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/adding.png)
+ ####  3.1 [adding](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/adding.png)
 ####  3.2 [cancel](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/cancel.png)
 ####  3.3 [delete](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/delete.png)
 ####  3.4 [editing](https://github.com/DaniilNaumenko/Electronic_Diary/blob/master/Diagram/activity%20diagram/editing.png)
